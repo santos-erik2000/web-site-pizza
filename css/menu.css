@@ -1,0 +1,67 @@
+
+div ul{
+   list-style: none;
+   
+}
+
+div ul li {
+    display:block;
+}
+
+div ul li a{
+    
+    padding:10px;
+    font-size:32px;
+    display:block;
+    text-transform:uppercase;
+    font-family:sans-serif;
+    color:#3F250D;
+    font-weight:bolder;
+}
+div ul li a:hover{
+    text-decoration:none;
+    background-color:#F8F5F2;
+    color:#3F250D;
+
+}
+
+table{
+    text-align:center;
+}
+table thead{
+    text-transform: uppercase;
+}
+
+hr {
+    
+    border-radius: 10px;
+    background: red;
+    border-radius:10px;
+}
+
+h1{
+    padding-top:50px;
+    font-size:32px;
+    color:#C23030;
+    
+}
+#comentarios{
+    line-height: 30px;
+    font-size: 20px;
+    padding-top:0;
+    padding: 50px;
+    text-align:center;
+}
+
+.span{
+    color:#C23030;
+    font-size:50px;
+}
+
+p{
+    text-align: justify;
+    font-family:Arial, Helvetica, sans-serif;
+    float:left;
+    line-height: 40px;
+    font-size: 24px;
+}

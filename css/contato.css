@@ -1,0 +1,24 @@
+div ul{
+    list-style: none;
+    
+ }
+ 
+ div ul li {
+     display:block;
+ }
+ 
+ div ul li a{
+     
+     padding:10px;
+     font-size:32px;
+     display:block;
+     text-transform:uppercase;
+     font-family:sans-serif;
+     color:#3F250D;
+     font-weight:bolder;
+ }
+ div ul li a:hover{
+     text-decoration:none;
+     background-color:#F8F5F2;
+     color:#3F250D;
+ }
